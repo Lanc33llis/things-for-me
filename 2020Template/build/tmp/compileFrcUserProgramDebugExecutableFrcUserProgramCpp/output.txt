@@ -1,0 +1,4 @@
+See file:///C:/Users/scdel/source/repos/frc2020-master/2020Template/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
+compiling Robot.cpp successful.
+
+Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///C:/Users/scdel/source/repos/frc2020-master/2020Template/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.

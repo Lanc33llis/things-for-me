@@ -1,0 +1,4 @@
+See file:///C:/Users/scdel/source/repos/frc2020-master/2020Template/build/tmp/linkFrcUserProgramDebugExecutable/output.txt for all output for linkFrcUserProgramDebugExecutable.
+linking frcUserProgram successful.
+
+Finished linkFrcUserProgramDebugExecutable, see full log file:///C:/Users/scdel/source/repos/frc2020-master/2020Template/build/tmp/linkFrcUserProgramDebugExecutable/output.txt.
